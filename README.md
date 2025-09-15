@@ -12,11 +12,11 @@ Website para uso comercial com foco em redirecionamento de leads para Grupos no 
 
 📦 Como instalar/usar
 
-Clonar o repositório
-  git clone https://github.com/arthurhenridev99/Landing-Page-com-HTML-e-CSS
+Clonar o repositório;
+ - git clone https://github.com/arthurhenridev99/Landing-Page-com-HTML-e-CSS;
 
-Entrar na pasta do projeto
-  cd Landing-Page-com-HTML-e-CSS
+Entrar na pasta do projeto;
+ - cd Landing-Page-com-HTML-e-CSS;
 
 🌐 Demo
 
@@ -25,4 +25,3 @@ Entrar na pasta do projeto
 📄 Licença
 
 Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE).
-
